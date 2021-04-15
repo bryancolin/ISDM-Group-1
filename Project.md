@@ -9,7 +9,7 @@
 | Health Department Minister | Uses/Affected with | <ul><li>Prepare & responsible for COVID-19 vaccine distribution</li><li>Plan vaccine program based on priority occupations</li></ul>  | <ul><li>Smooth & Efficient rollout program</li><li>Successfully distributing COVID-19 vaccine</li><li>Decrease COVID-19 cases</li></ul> |
 | Chief Information Technology Officer (CTO) | Uses/Affected with | Recruit a team to design the system | Smooth & Efficient rollout program |
 | System Developers | Affected with | Build & design Vaccination Management System (VMS) | Fullfilling business requirements |
-| Healthcare Workers <ul><li>Doctors</li><li>Nurses</li><li>Paramedic Staffs</li></ul> | Uses/Affected with | <ul><li>Vaccine Administrators</li><li>Ensure no vaccine is wasted</li><li>Inject patients with COVID-19 vaccine/li></ul> | Decrease the workhours |
+| Healthcare Workers <ul><li>Doctors</li><li>Nurses</li><li>Paramedic Staffs</li></ul> | Uses/Affected with | <ul><li>Vaccine Administrators</li><li>Ensure no vaccine is wasted</li><li>Inject patients with COVID-19 vaccine</li></ul> | Decrease the workhours |
 
 ## Problem Definition
 
