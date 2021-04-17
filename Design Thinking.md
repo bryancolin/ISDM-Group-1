@@ -9,6 +9,7 @@ Patients (member of public) who are interested in getting vaccinated need to kno
 
 ### Assumptions
 - Patients have not receive any COVID-19 vaccine yet either 
+- Patients will receive two doses of COVID-19 vaccine which means they will have to come back after the first vaccination within the set period of time
 - Patients have no knowledge or anything regarding how to get vaccinated
 
 ### How Might We (HMW) Statement
@@ -19,3 +20,5 @@ Patients (member of public) who are interested in getting vaccinated need to kno
 - How Might We facilitate vaccination centre to the public?
 - How Might We contact the public who has successfully book for COVID-19 vaccine?
 - How Might We make sure that the public are eligible to have COVID-19 vaccine before registration?
+- How Might We contact the public to come and receive second vaccination after the first one?
+- How Might We label them as vaccinated people after they have two doses of COVID-19 vaccine? Certificate?
