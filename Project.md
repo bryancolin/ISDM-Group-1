@@ -13,9 +13,11 @@
 
 ## Problem Definition
 
-## Problem Statement
+The state of Health Department Minister who is responsible for COVID-19 vaccination rollout program is having issues in distributing the COVID-19 vaccine to the public.
 
 ## Problem Objectives
+
+The goal of this project is to develop and design vaccination management system (VMS). The system will allow public to book for COVID-19 vaccine jab through a platform & provide the details of the vaccination centre. 
 
 ## Assumptions
 
