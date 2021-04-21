@@ -25,13 +25,13 @@ Patients (member of public) who are interested in getting vaccinated need to kno
 
 ### Chief Technical Officers 
 #### Point of View (POV) Statement
-The CTO, directed by the Health Minister, needs to ensure that the team develops the system to be able to effectively support the vaccination rollout.
+The CTO, directed by the Health Minister, needs to ensure that the team develops the system to be able to effectively support the vaccination rollout because it must be successul in order to accurately communicate vaccination information. This includes to both the end-users, being the public/patients, and those who will be affected by the system, being the healthcare workers.
 
 #### Empathy Maps
 ![alt text](https://github.com/bryancolin/ISDM-Group-1/blob/e9b1996583414dfff81bd23078974a9970d896bf/Images/Empathy%20Maps/Empathy%20Map%20for%20CTO%20&%20System%20Developers.png) 
 
 #### Assumptions
-- The CTO is heavily invested in the development of the VMS, interacting heavily with the team to ensure the system communicates the goals set by the Health Minister.
+- The CTO is heavily invested in the development of the VMS, interacting heavily with the system development team to ensure the system communicates the goals set by the Health Minister.
 
 ## 2. Define 
 After gathering user information and relevant data, it opens up a better exploration and understanding into the core problems identified by users. 
@@ -54,6 +54,12 @@ From the empathy maps, the stakeholder’s point of view can allow for setting t
 - How Might We make sure that the public are eligible to have COVID-19 vaccine before registration?
 - How Might We contact the public to come and receive second vaccination after the first one?
 - How Might We label them as vaccinated people after they have two doses of COVID-19 vaccine? Certificate?
+
+#### CTO
+- How Might We encourage effective communication and coordination between the CTO and the system developers?
+- How Might We effectively incorporate the goals set by the CTO into  development of the system?
+- How Might We ensure the CTO communicates the goals set by the health minister to the development team?
+- How Might We ensure that the system runs smoothly and accurently conveys the vaccine information so to avoid confusion with the patients and healthcare workers?
 
 ## 4. Prototype
 The system developers/design will then produce a few inexpensive, scaled-down versions of the application with detailed features found within it. The prototype will continually be tested by health officers including the nurses and doctors, and the testing team that is under the CTO to identify whether the system achieves the best possible solution for the issues acknowledged in the first three stages above. The solution is to create a system that allows the user to view any vaccination points according to the administrating capacity which will be executed within the prototype. Additionally, class diagrams are also designed to better understand the flow and function of the application.
