@@ -28,6 +28,7 @@ Patients (member of public) who are interested in getting vaccinated need to kno
 The CTO, directed by the Health Minister, needs to ensure that the team develops the system to be able to effectively support the vaccination rollout.
 
 #### Empathy Maps
+![alt text](https://github.com/bryancolin/ISDM-Group-1/blob/e9b1996583414dfff81bd23078974a9970d896bf/Images/Empathy%20Maps/Empathy%20Map%20for%20CTO%20&%20System%20Developers.png) 
 
 #### Assumptions
 - The CTO is heavily invested in the development of the VMS, interacting heavily with the team to ensure the system communicates the goals set by the Health Minister.
