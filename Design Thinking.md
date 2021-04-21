@@ -16,15 +16,16 @@ Patients (member of public) who are interested in getting vaccinated need to kno
 - Patients will receive two doses of COVID-19 vaccine which means they will have to come back after the first vaccination within the set period of time
 - Patients have no knowledge or anything regarding how to get vaccinated
 
-### Health Officers 
+### Health Officiers 
 #### Point of View (POV) Statement
 
 #### Empathy Maps
 
 #### Assumptions
 
-### Chief Technical Officers
+### Chief Technical Officers 
 #### Point of View (POV) Statement
+The CTO, directed by the Health Minister, needs to ensure that the team develops the system to be able to effectively support the vaccination rollout.
 
 #### Empathy Maps
 
@@ -42,8 +43,6 @@ The ideation stage is essential to the creative development of design thinking. 
 From the empathy maps, the stakeholder’s point of view can allow for setting the foundations of the idea stage by developing “How Might We (“HMW”) Statements to launch brainstorming of other ideation sessions of the team. Below are some of the HMW statements that will trigger the development team’s ideas on how they can effectively create an end solution to the users. 
 
 ### How Might We (HMW) Statement
-
-#### General Public (Patient)
 - How Might We share the information details of COVID-19 vaccine for public member to view?
 - How Might We ensure that COVID-19 vaccine is safe to have to the general public?
 - How Might We encourage member of public to have COVID-19 vaccine?
@@ -53,10 +52,6 @@ From the empathy maps, the stakeholder’s point of view can allow for setting t
 - How Might We make sure that the public are eligible to have COVID-19 vaccine before registration?
 - How Might We contact the public to come and receive second vaccination after the first one?
 - How Might We label them as vaccinated people after they have two doses of COVID-19 vaccine? Certificate?
-
-#### Health Officers
-
-#### Chief Technology Officers
 
 ## 4. Prototype
 The system developers/design will then produce a few inexpensive, scaled-down versions of the application with detailed features found within it. The prototype will continually be tested by health officers including the nurses and doctors, and the testing team that is under the CTO to identify whether the system achieves the best possible solution for the issues acknowledged in the first three stages above. The solution is to create a system that allows the user to view any vaccination points according to the administrating capacity which will be executed within the prototype. Additionally, class diagrams are also designed to better understand the flow and function of the application.
