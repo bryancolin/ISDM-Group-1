@@ -23,7 +23,7 @@ Patients (member of public) who are interested in getting vaccinated need to kno
 
 #### Assumptions
 
-### Chief Technical Officiers 
+### Chief Technical Officers 
 #### Point of View (POV) Statement
 
 #### Empathy Maps
