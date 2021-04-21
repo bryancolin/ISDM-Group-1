@@ -51,3 +51,10 @@ From the empathy maps, the stakeholder’s point of view can allow for setting t
 - How Might We make sure that the public are eligible to have COVID-19 vaccine before registration?
 - How Might We contact the public to come and receive second vaccination after the first one?
 - How Might We label them as vaccinated people after they have two doses of COVID-19 vaccine? Certificate?
+
+## 4. Prototype
+The system developers/design will then produce a few inexpensive, scaled-down versions of the application with detailed features found within it. The prototype will continually be tested by health officers including the nurses and doctors, and the testing team that is under the CTO to identify whether the system achieves the best possible solution for the issues acknowledged in the first three stages above. The solution is to create a system that allows the user to view any vaccination points according to the administrating capacity which will be executed within the prototype. Additionally, class diagrams are also designed to better understand the flow and function of the application.
+
+## 5. Test 
+In the testing phase, the system tests along with the potential future users of the application will experiment with the prototype developed. The results outputted during this process will allow the development team to redefine any issues needed and enable a full understanding of the user experience along with their conditions of use.
+
