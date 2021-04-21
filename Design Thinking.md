@@ -11,7 +11,7 @@ Patients (member of public) who are interested in getting vaccinated need to kno
 #### Empathy Maps
 ![alt text](https://github.com/bryancolin/ISDM-Group-1/blob/week-1/Images/Empathy%20Maps/Empathy%20Map%20for%20General%20Public.png)
 
-##### Assumptions
+#### Assumptions
 - Patients have not receive any COVID-19 vaccine yet either 
 - Patients will receive two doses of COVID-19 vaccine which means they will have to come back after the first vaccination within the set period of time
 - Patients have no knowledge or anything regarding how to get vaccinated
@@ -21,14 +21,14 @@ Patients (member of public) who are interested in getting vaccinated need to kno
 
 #### Empathy Maps
 
-##### Assumptions
+#### Assumptions
 
 ### Chief Technical Officiers 
 #### Point of View (POV) Statement
 
 #### Empathy Maps
 
-##### Assumptions
+#### Assumptions
 
 ## 2. Define 
 After gathering user information and relevant data, it opens up a better exploration and understanding into the core problems identified by users. 
