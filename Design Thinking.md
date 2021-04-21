@@ -60,6 +60,7 @@ From the empathy maps, the stakeholder’s point of view can allow for setting t
 - How Might We effectively incorporate the goals set by the CTO into  development of the system?
 - How Might We ensure the CTO communicates the goals set by the health minister to the development team?
 - How Might We ensure that the system runs smoothly and accurently conveys the vaccine information so to avoid confusion with the patients and healthcare workers?
+- How Might We request feedback from the health minister at various stages of the system development stage to ensure it meets requirements?
 
 ## 4. Prototype
 The system developers/design will then produce a few inexpensive, scaled-down versions of the application with detailed features found within it. The prototype will continually be tested by health officers including the nurses and doctors, and the testing team that is under the CTO to identify whether the system achieves the best possible solution for the issues acknowledged in the first three stages above. The solution is to create a system that allows the user to view any vaccination points according to the administrating capacity which will be executed within the prototype. Additionally, class diagrams are also designed to better understand the flow and function of the application.
