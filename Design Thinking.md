@@ -30,6 +30,7 @@ The CTO, directed by the Health Minister, needs to ensure that the team develops
 #### Empathy Maps
 
 #### Assumptions
+- The CTO is heavily invested in the development of the VMS, interacting heavily with the team to ensure the system communicates the goals set by the Health Minister.
 
 ## 2. Define 
 After gathering user information and relevant data, it opens up a better exploration and understanding into the core problems identified by users. 
