@@ -4,9 +4,31 @@ he Design Thinking Methodology refers to a non-linear iterative process that tea
 ## 1. Empathise 
 Empathising is the first step of the Design Thinking and allows for the understanding of the user’s pain points and potential improvements that will need to be developed to enhance the user experience. In order to enhance the user experience, it is important to understand the user, how they feel, and how this system will affect their way of functioning in society. A method to approach this phase requires a need to interact with the users and taking into account their viewpoint on the issue. By viewing the character profile for each of the stakeholders involved (found in the project tab), an empathy map was created to provide a visualisation on the user’s attitude and behaviour found below. This will assist the UX Team in revealing any the current user data to support a greater understanding of end users.
 
-### Empathy Maps
-#### General Public Patient 
+### General Public (Patient)
+#### Point of View (POV) Statement
+Patients (member of public) who are interested in getting vaccinated need to know whether they need to get vaccinated or not, as there is a lot of misleading information that is being shared and doesn't have any information to book for one.
+
+#### Empathy Maps
 ![alt text](https://github.com/bryancolin/ISDM-Group-1/blob/week-1/Images/Empathy%20Maps/Empathy%20Map%20for%20General%20Public.png)
+
+##### Assumptions
+- Patients have not receive any COVID-19 vaccine yet either 
+- Patients will receive two doses of COVID-19 vaccine which means they will have to come back after the first vaccination within the set period of time
+- Patients have no knowledge or anything regarding how to get vaccinated
+
+### Health Officiers 
+#### Point of View (POV) Statement
+
+#### Empathy Maps
+
+##### Assumptions
+
+### Chief Technical Officiers 
+#### Point of View (POV) Statement
+
+#### Empathy Maps
+
+##### Assumptions
 
 ## 2. Define 
 After gathering user information and relevant data, it opens up a better exploration and understanding into the core problems identified by users. 
@@ -29,15 +51,3 @@ From the empathy maps, the stakeholder’s point of view can allow for setting t
 - How Might We make sure that the public are eligible to have COVID-19 vaccine before registration?
 - How Might We contact the public to come and receive second vaccination after the first one?
 - How Might We label them as vaccinated people after they have two doses of COVID-19 vaccine? Certificate?
-
-
-### General Public (Patient) 
-#### Point of View (POV) Statement
-Patients (member of public) who are interested in getting vaccinated need to know whether they need to get vaccinated or not, as there is a lot of misleading information that is being shared and doesn't have any information to book for one.
-
-##### Assumptions
-- Patients have not receive any COVID-19 vaccine yet either 
-- Patients will receive two doses of COVID-19 vaccine which means they will have to come back after the first vaccination within the set period of time
-- Patients have no knowledge or anything regarding how to get vaccinated
-
-
