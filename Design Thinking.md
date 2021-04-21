@@ -4,6 +4,11 @@ he Design Thinking Methodology refers to a non-linear iterative process that tea
 ## 1. Empathise 
 Empathising is the first step of the Design Thinking and allows for the understanding of the user’s pain points and potential improvements that will need to be developed to enhance the user experience. In order to enhance the user experience, it is important to understand the user, how they feel, and how this system will affect their way of functioning in society. A method to approach this phase requires a need to interact with the users and taking into account their viewpoint on the issue. By viewing the character profile for each of the stakeholders involved (found in the project tab), an empathy map was created to provide a visualisation on the user’s attitude and behaviour found below. This will assist the UX Team in revealing any the current user data to support a greater understanding of end users.
 
+### Empathy Maps
+![alt text](https://github.com/bryancolin/ISDM-Group-1/blob/week-1/Images/Empathy%20Maps/Empathy%20Map%20for%20General%20Public.png)
+
+#### General Public Patient 
+
 ## 2. Define 
 After gathering user information and relevant data, it opens up a better exploration and understanding into the core problems identified by users. 
 The problem definition: 
@@ -14,9 +19,6 @@ With the above information, the system developers and designers are able to envi
 
 
 ### General Public (Patient) 
-
-![alt text](https://github.com/bryancolin/ISDM-Group-1/blob/week-1/Images/Empathy%20Maps/Empathy%20Map%20for%20General%20Public.png)
-
 #### Point of View (POV) Statement
 Patients (member of public) who are interested in getting vaccinated need to know whether they need to get vaccinated or not, as there is a lot of misleading information that is being shared and doesn't have any information to book for one.
 
