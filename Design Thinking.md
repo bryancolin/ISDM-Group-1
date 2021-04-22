@@ -16,12 +16,14 @@ Patients (member of public) who are interested in getting vaccinated need to kno
 - Patients will receive two doses of COVID-19 vaccine which means they will have to come back after the first vaccination within the set period of time
 - Patients have no knowledge or anything regarding how to get vaccinated
 
-### Health Officiers 
+### Healthcare Workers 
 #### Point of View (POV) Statement
-
+The Healthcare workers need to be treated with the vaccine themselves before assisting patients with their treatment as this will ensure they do not spread the virus any further to provide their assistance
 #### Empathy Maps
 
 #### Assumptions
+- Healthcare workers have already been vaccinated before treating others
+- Healthcare workers have an understanding of the vaccination procedure
 
 ### Chief Technical Officers 
 #### Point of View (POV) Statement
@@ -45,6 +47,8 @@ The ideation stage is essential to the creative development of design thinking. 
 From the empathy maps, the stakeholder’s point of view can allow for setting the foundations of the idea stage by developing “How Might We (“HMW”) Statements to launch brainstorming of other ideation sessions of the team. Below are some of the HMW statements that will trigger the development team’s ideas on how they can effectively create an end solution to the users. 
 
 ### How Might We (HMW) Statement
+
+#### General Public
 - How Might We share the information details of COVID-19 vaccine for public member to view?
 - How Might We ensure that COVID-19 vaccine is safe to have to the general public?
 - How Might We encourage member of public to have COVID-19 vaccine?
@@ -54,6 +58,13 @@ From the empathy maps, the stakeholder’s point of view can allow for setting t
 - How Might We make sure that the public are eligible to have COVID-19 vaccine before registration?
 - How Might We contact the public to come and receive second vaccination after the first one?
 - How Might We label them as vaccinated people after they have two doses of COVID-19 vaccine? Certificate?
+
+#### Healthcare Workers
+- How might we spread the word about the COVID-19 Vaccine?
+- How might we persuade the general public to take the vaccine?
+- How might we organize a faster rollout system?
+- How might we facilitate the demand for the vaccine?
+- How might we inform who is next in line for their vaccinations?
 
 #### CTO
 - How Might We encourage effective communication and coordination between the CTO and the system developers?
