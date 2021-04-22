@@ -20,6 +20,7 @@ Patients (member of public) who are interested in getting vaccinated need to kno
 #### Point of View (POV) Statement
 The Healthcare workers need to be treated with the vaccine themselves before assisting patients with their treatment as this will ensure they do not spread the virus any further to provide their assistance
 #### Empathy Maps
+![alt text](https://github.com/bryancolin/ISDM-Group-1/blob/week-1/Images/Empathy%20Maps/Empathy%20Map%20for%20Healthcare%20Workers.png)
 
 #### Assumptions
 - Healthcare workers have already been vaccinated before treating others
