@@ -1,6 +1,4 @@
-# Stakeholders, Objectives, Problem Definition, and Assumptions
-
-## Stakeholders
+# Stakeholders
 
 | Name | Categories | Role | Impact |
 | ---- | ---------- | ---- | ------ |
@@ -11,14 +9,10 @@
 | System Developers | Affected with | Build & design Vaccine Management System (VMS) | Fullfilling business requirements |
 | Healthcare Workers <ul><li>Doctors</li><li>Nurses</li><li>Paramedic Staffs</li></ul> | Uses/Affected with | <ul><li>Vaccine Administrators</li><li>Ensure no vaccine is wasted</li><li>Inject patients with COVID-19 vaccine</li></ul> | Decrease the workhours |
 
-## Problem Definition
+# Problem Definition
 
 The state of Health Department Minister who is responsible for COVID-19 vaccination rollout program is having issues in distributing the COVID-19 vaccine to the public.
 
-## Project Objectives
+# Project Objectives
 
 The goal of this project is to develop and design vaccination management system (VMS). The system will allow public to book for COVID-19 vaccine jab through a platform & provide the details of the vaccination centre. 
-
-## Assumptions
-
-
