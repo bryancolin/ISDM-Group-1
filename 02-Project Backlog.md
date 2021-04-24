@@ -10,5 +10,5 @@
 | 006 | Recieve and record vaccine amount from shipments | Healthcare worker | be able to retreive the vaccine from the shipment and record dosage numbers | so that the COVID-19 vaccine count can be kept | High | 
 | 007 | View application forms and timings | Healthcare worker | to be able to check what which applicanbt is coming to recieve their vaccine and what time | so that they can keep track of who is going to recieve the COVID-19 vaccine | High | 
 | 008 | update in the system when a dose is given | Healthcare worker | to administer the dosage of the vaccine to the paitient and record the dose given | so that the paitient will compelete their first dose for the COVID-19 vaccine and the system is updated each dose given | High | 
-| 010 | Notify paitient if another dosage is needed on a later date | Healthcare worker | to be able to orgnaise the date and time for the second dose if needed | so that the paitient can be fully vaccinated or so the paitient can come back for their second dosage if needed | High | 
+| 009 | Notify paitient if another dosage is needed on a later date | Healthcare worker | to be able to orgnaise the date and time for the second dose if needed | so that the paitient can be fully vaccinated or so the paitient can come back for their second dosage if needed | High | 
 
