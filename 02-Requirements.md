@@ -13,7 +13,8 @@
 - The system shall allow general public to sign out from the system  
 - The system shall allow federal health authorities to set up rollout plan based on priority occupations
 - The system shall allow federal health authorities to register vaccination centre location to the system
-- The system shall allow healthcare workers to view and dosage count for each type of vaccine
+- The system shall allow healthcare workers to view shipment details for the vaccine
+- The system shall allow healthcare workers to view the dosage count for each type of vaccine
 - The system shall allow healthcare workers to update the dosage count for each type of vaccine
 - The system shall allow healthcare workers to view intructions on vaccine administration protocol 
 - The system shall allow healthcare workers to download intructions on vaccine administration protocol 
