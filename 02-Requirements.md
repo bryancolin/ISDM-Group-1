@@ -21,7 +21,7 @@
 - The system shall allow healthcare workers to view applications including date and time for each paitient assigned
 - The system shall allow healthcare workers to record when a dose and given and update the dosage count
 - The system shall allow healthcare workers to notify paitients for their second dosage
-- 
+
 
 ## Non-Functional Requirements
 - The system should be able operational 24 hours a day and 7 days a week
