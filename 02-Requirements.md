@@ -13,6 +13,14 @@
 - The system shall allow general public to sign out from the system  
 - The system shall allow federal health authorities to set up rollout plan based on priority occupations
 - The system shall allow federal health authorities to register vaccination centre location to the system
+- The system shall allow healthcare workers to view and dosage count for each type of vaccine
+- The system shall allow healthcare workers to update the dosage count for each type of vaccine
+- The system shall allow healthcare workers to view intructions on vaccine administration protocol 
+- The system shall allow healthcare workers to download intructions on vaccine administration protocol 
+- The system shall allow healthcare workers to view applications including date and time for each paitient assigned
+- The system shall allow healthcare workers to record when a dose and given and update the dosage count
+- The system shall allow healthcare workers to notify paitients for their second dosage
+- 
 
 ## Non-Functional Requirements
 - The system should be able operational 24 hours a day and 7 days a week
