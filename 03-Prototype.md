@@ -21,5 +21,6 @@
 ![ALT Text](https://github.com/bryancolin/ISDM-Group-1/blob/week-3/Images/Diagrams/Activity%20Diagram%20(Healthcare%20Worker)%20-%20Record%20Vaccinated%20Patient.jpg)
 
 ## Class Diagram
+![ALT Text](https://github.com/bryancolin/ISDM-Group-1/blob/week-3/Images/Diagrams/Class%20Diagram.jpg)
 
 ## Collaborative Diagram
