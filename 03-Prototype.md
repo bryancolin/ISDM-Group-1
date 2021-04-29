@@ -17,6 +17,9 @@
 #### View Applications
 ![ALT Text](https://github.com/bryancolin/ISDM-Group-1/blob/week-3/Images/Diagrams/Healthcare%20worker%20View%20application%20form.jpg)
 
+#### Record Vaccinated Patients
+![ALT Text](https://github.com/bryancolin/ISDM-Group-1/blob/week-3/Images/Diagrams/Activity%20Diagram%20(Healthcare%20Worker)%20-%20Record%20Vaccinated%20Patient.jpg)
+
 ## Class Diagram
 
 ## Collaborative Diagram
