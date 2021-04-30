@@ -15,7 +15,7 @@
 ### Healthcare Worker
 
 #### View Application Form & Record
-![ALT Text](https://github.com/bryancolin/ISDM-Group-1/blob/week-3/Images/Diagrams/Activity%20Diagram%20(Healthcare%20Worker)%20-%20View%20Application%20Form%20%26%20Record%20.jpg)
+![ALT Text](https://github.com/bryancolin/ISDM-Group-1/blob/week-3/Images/Diagrams/Activity%20Diagram%20(Healthcare%20Worker)%20-%20View%20Application%20Form%20%26%20Record.jpg)
 
 ## Class Diagram
 ![ALT Text](https://github.com/bryancolin/ISDM-Group-1/blob/week-3/Images/Diagrams/Class%20Diagram.jpg)
