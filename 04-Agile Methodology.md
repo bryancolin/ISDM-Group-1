@@ -1,6 +1,8 @@
 # Agile Methodology
 The Agile Methodology has been chosen for the VMS Project as it provides a versatile structure for developing an effective solution that focus on the customers. The Scrum Framework in particular, is centred around continuous learning and adjustment to fluctuating factors. It acknowledges the fact that the team doesn't know everything at the start of the project and will evolve through experience. This means that the team can adapt to changing conditions and re-prioritisation built within the process through the short release cycles ultimately enabling them to constantly learn and improve. This in turn will save large amounts of time, cost, and resources given to the project. 
 
+![differences-lean-agile-scrum-scrum-process](https://user-images.githubusercontent.com/48747159/116772861-1f7bfb00-aa95-11eb-9178-90372f7df6f7.jpeg)
+
 ## Preparation
 The first stage of Scrum in the Agile Methodology is setting up the project foundations. These includes the sprint planning, putting together the sprint backlog, and deciding on the scrum roles. 
 
