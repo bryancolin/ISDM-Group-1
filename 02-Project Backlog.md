@@ -12,5 +12,4 @@
 | 008 | View instructions and conditions needed for vaccine administration | Healthcare worker | check a manual for administration either via a manual booklet or an online document | I can know how to properly administer the vaccine  | Medium | 
 | 009 | Update the system when a dose is given | Healthcare worker | administer the dosage of the vaccine to the patient and record the dose given | the patient can complete their first dose of the COVID-19 vaccine | High | 
 | 010 | Notify patient if another dosage is needed on a later date | Healthcare worker | organize the date and time for the second dose if needed | the patient can be fully vaccinated or so the patient can come back for their second dosage if needed | High | 
-| 011 | Setup vaccination centre location | Federal Health Authority | register the location of vaccination centre in the system | the system can match the booked patient with the closest centre | High |
-
+| 011 | Setup vaccination centre location | Federal Health Authority | register the location of vaccination centres in the system | the system can match the booked patient with the closest centre | High |
