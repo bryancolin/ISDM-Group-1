@@ -15,3 +15,17 @@ The Project Owner is responsible for the product backlog and has a say in priori
 
 ## Sprint Planning Meeting
 Sprint Planning is an event in Scrum that kicks off the beginning of the sprint. This event is to define what can be delivered in the sprint and how the work can be achieved. Sprint is a set period of time where all the work is done and is done in collaboration with the whole scrum team. The planning meeting will involve the scrum master, project owner, and development team who will decide how the produce will proceed and a plan will then be developed for their own use. The backlog is accessed in this meeting and will have user stories split up into sprint as shown in the table below: 
+
+## Daily Scrum Meeting 
+Also known as daily stand-ups, the daily scrum meetings are a great way for the team to understand each other's progress as well as help flag any team blockers. It also strengthens the team when everyone shares the progress that they are contributing. The regular intervals or these meetings also keeps everyone excited about the team's overall contribution to the organisation, thus leading to ultimately transparency found throughout the team. Every member answers these three questions to generate structure to the meetings as they should only be 5 minutes long: 
+
+* What did I work on yesterday?
+* What did I work on today?
+* What issues are blocking me?
+
+Any blockers that were brought up during these meetings were openly discussed within the team and management to derive a solution where each meeting had a limit of 5-10 minutes max.
+
+## Sprint Review 
+The execution of all the two sprints were successful as a result of the effective implementation of the Agile Methodology (in particular Scrum) which allowed for the incremental succession of tasks being completed as well as enabling effective communication between the development team and management. From the sprint planning, all the way to the daily scrum meeting, the team was able to complete their tasks within a timely manner through having a sprint review. Although the system is not ready for deployment nor for sale, the working model has been developed and reviewed by the product owner. Some of the work showcased include the UML Class Diagrams, Project Objectives and a low fidelity prototype of the system. A sprint review is a celebration of completing the tasks on time based on what the team defines 'The definition of done' on each of the work items and was done at the end of Sprint 1 and 2. 
+
+## Sprint Retrospective 
