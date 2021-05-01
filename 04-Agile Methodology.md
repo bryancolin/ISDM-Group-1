@@ -23,7 +23,9 @@ Sprint Planning is an event in Scrum that kicks off the beginning of the sprint.
 * Class diagram have beed reviewed by the product owner (i.e. tutor) 
 * Feedback has been provided to the author of the diagrams 
 
-The backlog is accessed in this meeting and will have user stories split up into sprint as shown in the table below: 
+The backlog is accessed in this meeting and will have user stories split up into sprint as shown in the table below:
+
+<img width="735" alt="Screen Shot 2021-05-01 at 4 16 10 pm" src="https://user-images.githubusercontent.com/48747159/116773402-8ea71e80-aa98-11eb-9507-f4d7bf709f92.png">
 
 ## Daily Scrum Meeting 
 Also known as daily stand-ups, the daily scrum meetings are a great way for the team to understand each other's progress as well as help flag any team blockers. It also strengthens the team when everyone shares the progress that they are contributing. The regular intervals or these meetings also keeps everyone excited about the team's overall contribution to the organisation, thus leading to ultimately transparency found throughout the team. Every member answers these three questions to generate structure to the meetings as they should only be 5 minutes long: 
