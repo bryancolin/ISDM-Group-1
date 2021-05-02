@@ -2,7 +2,9 @@
 
 This repository contains a collection of documents by Group 1. This report shows the design and implementation of vaccine management system (VMS) to help general public to book for a vaccine & getting vaccinated.
 
-### [Project Specification](https://github.com/bryancolin/ISDM-Group-1/files/6315690/Project.Specification.2021.1.docx)
+- [Report](https://github.com/bryancolin/ISDM-Group-1/blob/main/Report.md)
+- [Slide]
+- [Project Specification](https://github.com/bryancolin/ISDM-Group-1/files/6315690/Project.Specification.2021.1.docx)
 
 ### Week 1
 - List of Stakeholders
