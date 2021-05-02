@@ -8,9 +8,9 @@ The first stage of Scrum in the Agile Methodology is setting up the project foun
 
 The scrum roles have been divided accordingly into different roles including the Project Owner, Scrum Master, and Development Team. The roles were distributed based on the individual's skills and experience to ensure that the work produced is at a high quality. The team took the initiative to be self-organising and adapt to each other to allow for the best outcomes. Furthermore, they will be cross-functional to ensure that each member can work independently in successfully achieving the outcomes. The roles are as follows: 
 
-* Project Owner:
-* Scrum Master
-* Development Team:
+* Project Owner: Chief Technology Officer (CTO)
+* Scrum Master: Bryan Colin
+* Development Team: Adam Airey, Pornmonireachsak Aun, Dylan Cai, Kunyang Dai, and Jasmina Dang
 
 ## Product Backlog 
 The Project Owner is responsible for the product backlog and has a say in prioritising the user stories, requirements and changes. The Product backlog will contain all necessary requirements to effectively create the VMS and is thus presented at an ordered list. It is important for the Agile Backlog to be well-prioritised as it not only makes the release and iteration planning easier, it demonstrates all the aspects the team intends to spent time on including the work the customer do not see. The user stories will be used for the product backlog as it breaks down the user needs and requirements which ultimately allow the team to create a roadmap for building the system. The backlog will be prioritised based on the importance in each sprint. The list of user stories can be found in the [Week 2 Product Backlog Tab.](https://github.com/bryancolin/ISDM-Group-1/blob/week-2/02-Project%20Backlog.md)
@@ -25,7 +25,12 @@ Sprint Planning is an event in Scrum that kicks off the beginning of the sprint.
 
 The backlog is accessed in this meeting and will have user stories split up into sprint as shown in the table below:
 
-<img width="735" alt="Screen Shot 2021-05-01 at 4 16 10 pm" src="https://user-images.githubusercontent.com/48747159/116773402-8ea71e80-aa98-11eb-9507-f4d7bf709f92.png">
+| Sprint | Duration | User Story ID | Goal |
+| ------ | -------- | ------------- | ---- |
+| 1 | 2 | 001, 002, 005, 006, 007, 008 | To set up VMS allowing users to register and login in order to achieve the expectations of the owner and the manager | 
+| 2 | 2 | 003, 004, 009, 010, 011 | To create a notification and mapping vaccine system to make the Vaccination Process more efficient | 
+
+[//]: <img width="735" alt="Screen Shot 2021-05-01 at 4 16 10 pm" src="https://user-images.githubusercontent.com/48747159/116773402-8ea71e80-aa98-11eb-9507-f4d7bf709f92.png"> (This is also a comment.)
 
 ## Daily Scrum Meeting 
 Also known as daily stand-ups, the daily scrum meetings are a great way for the team to understand each other's progress as well as help flag any team blockers. It also strengthens the team when everyone shares the progress that they are contributing. The regular intervals or these meetings also keeps everyone excited about the team's overall contribution to the organisation, thus leading to ultimately transparency found throughout the team. Every member answers these three questions to generate structure to the meetings as they should only be 5 minutes long: 
