@@ -234,8 +234,14 @@ The sprint retrospective is when the team reflects on the past in order to impro
 
 Many advantages will come with the introduction of the proposed vaccine management system. One of the main advantages will be the great improvement with the organisation of the vaccination process. This entails that the healthcare workers will have to record when a vaccine is given, how many vaccine doses are left as well as who it was given to. This system allows for a much easier and accurate way of recording these points thus ensuring that data is stored accurately. The system will also improve the experience not only for the healthcare workers but for the general public also. As the system comes with a feature that allows the public to view information on the vaccines boosting public confidence in the vaccine's safety. Also provides them with an easy application process where the time slotting and confirmation is automated by the system lowering the risks for human error. The system will also automatically send the notification for patients for their vaccination allowing for better organization for the patients as well. The system will allow the health workers to view the application details as well as let the health workers check for the identity of the patient lowering the risk of giving vaccines to the wrong person. The system will also let the health workers and government keep track of dosage amounts as well as the vaccination rates. Providing the government important data to see how the country is keeping on track with the vaccination rollout. Once the patient vaccination process completed, the system will generate a vaccination certificate as an evidence that the patient has been vaccinated. In general, the system should make the process much faster and efficient.
 
-# Possible effects if the project fails:
+# Possible effects if the project fails
 
 If the system were to fail there would be very large delays for both health workers and patients. As firstly the application system will have to be done manually or completely scrapped causing large lines and confusion with the vaccination. The health workers will have to manually make sure they give the correct doses to the right person while recording how many doses were given. Thus leading to a lot of chances for human error. This could lead to incorrect data on who has received the dose, how many doses are left and if the hospital would need to order more from the government. This could cause problems for the government as they will face more problems with keeping the supply of the vaccines going to the correct places that need them. As many hospitals and vaccination centres could lose track of their vaccination count if the system were to fail. In conclusion the failure of the system will severely slow down the vaccination process.
+
+# Presentation Link
+
+https://youtu.be/KM0hrNfXF-c
+
+
 
 
